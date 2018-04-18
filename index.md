@@ -1,4 +1,5 @@
-## Welcome To The _Machine Learning Discussion Group!_
+## Welcome To The 
+## _Machine Learning Paper Discussion Group!_
 # It's Nice To Meet You
 
 ### Mission
@@ -17,7 +18,7 @@ The paper for the upcoming session will be named on this webpage.
 Please be aware that no file access will be provided. Although a huge amount of papers is freely available, e.g. via [arXiv](https://arxiv.org/), some papers have limited access, e.g. you have free access to the ACM Digital Library as a student of TU Darmstadt.
 
 ### How do we communicate?
-Currently, we use the following Slack channel:
+Currently, we use a mailing list and the following Slack channel:
 https://tudmachinelearning.slack.com/
 However, you only get access if you own a `@...tu-darmstadt.de` email address.
 If you aren't university member, please 
