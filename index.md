@@ -3,7 +3,8 @@
 # It's Nice To Meet You
 
 - - - -
-# Next Meeting: 23.04.2018 “Gaussian Processes for Dummies”
+# Next Meeting: 
+# 23.04.2018 “Gaussian Processes for Dummies”
 Please, checkout this awesome blog post:
 http://katbailey.github.io/post/gaussian-processes-for-dummies/
 
