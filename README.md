@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## Welcome To The Machine Learning Discussion Group!
+# It's Nice To Meet You
 
-You can use the [editor on GitHub](https://github.com/mldisco/mldisco.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Mission
+We're a group of students of all levels (Bachelor, Master, PhD) from TU Darmstadt, Germany.
+Our mission is to foster a culture of discussion in the field of machine learning at TU Darmstadt.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Skill Level
+Most of the pariticipants have at least a small background in ML.
+Nevertheless, everyone who wants to learn about ML is welcome.
 
-### Markdown
+### What exactly do we talk about?
+We read conference papers, tutorials, book chapters, YouTube-videos, and whatever is helpful to understand the matter.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### How to know what will be discussed?
+The paper for the upcoming session will be named on this webpage.
+Please be aware that no file access will be provided. Although a huge amount of papers is freely available, e.g. via [arXiv](https://arxiv.org/), some papers have limited access, e.g. you have free access to the ACM Digital Library as a student of TU Darmstadt.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mldisco/mldisco.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Previous Meetings
+* 29.01.2018 "A few useful things to know about machine learning", Pedro Domingos, 2012
+* 05.02.2018 Introduction to CNNs 
+  * http://ufldl.stanford.edu/tutorial/.
+  * https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
+* 12.02.2018 "Visualizing and Understanding Convolutional Networks", Zeiler & Fergus, 2013
+  * https://arxiv.org/pdf/1311.2901v3.pdf
+  * https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
+* 19.02.2018 Transforming Auto-Encoders", Hinton et al., 2011
+  * http://www.cs.toronto.edu/~fritz/absps/transauto6.pdf
+* 26.02.2018 "Dynamic Routing between Capsules", Sabour, Frosst & Hinton, 2017
+  * https://arxiv.org/abs/1710.09829
+* 05.03.2018 Introduction to RNNs: 
+  * www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/
+* 12.03.2018 No meeting
+* 19.03.2018 "An Introduction to Markov Decision Processes", Givan & Parr
+  * https://www.cs.rice.edu/~vardi/dag01/givan1.pdf.
+* 26.03.2018 "Using Markov decision process for learning dialogue strategies", Levin, pieraccini & Eckert, 1998
+  * http://www.thepieraccinis.com/publications/1998/ICASSP_98.pdf
+* 02.04.2018 Public holiday, no meeting.
+* 09.04.2018 No meeting.
+* 16.04.2018 "Variational inference in Gaussian processes", Carl Rasmussen
+  * http://mlg.eng.cam.ac.uk/carl/talks/brusselsbench.pdf
+* 23.04.2018 "Gaussian Processes for Dummies"
+  * http://katbailey.github.io/post/gaussian-processes-for-dummies/
+* 30.04.2018 TBA
