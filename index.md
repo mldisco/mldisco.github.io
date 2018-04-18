@@ -2,6 +2,14 @@
 ## _Machine Learning Paper Discussion Group!_
 # It's Nice To Meet You
 
+- - - -
+# Next Meeting: 23.04.2018 “Gaussian Processes for Dummies”
+Please, checkout this awesome blog post:
+http://katbailey.github.io/post/gaussian-processes-for-dummies/
+
+If you find any other helpful introductory resource, please share them.
+- - - -
+
 ### Mission
 We're a group of students of all levels (Bachelor, Master, PhD) from TU Darmstadt, Germany.
 Our mission is to foster a culture of discussion in the field of machine learning at TU Darmstadt.
@@ -26,12 +34,6 @@ If you aren't university member, please
 ### When and where do we meet?
 We meet on Monday evening, 6pm. The location changes, so if you're not a member of the university, please, get in touch with us and we'll tell you where you have to go.
 
-- - - -
-# Next Meeting: 23.04.2018 “Gaussian Processes for Dummies”
-Please, checkout this awesome blog post:
-http://katbailey.github.io/post/gaussian-processes-for-dummies/
-
-If you find any other helpful introductory resource, please share them.
 - - - -
 
 ### Previous Meetings
