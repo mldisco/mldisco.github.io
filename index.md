@@ -1,4 +1,4 @@
-## Welcome To The 
+## Welcome To The TU Darmstadt
 ## _Machine Learning Paper Discussion Group!_
 # It's Nice To Meet You
 
@@ -63,3 +63,7 @@ We meet on Monday evening, 6pm. The location changes, so if you're not a member 
 * 23.04.2018 "Gaussian Processes for Dummies"
   * http://katbailey.github.io/post/gaussian-processes-for-dummies/
 * 30.04.2018 TBA
+
+- - - -
+### Sponsors
+Prof. Kristian Kersting and his team at TU Darmstadt: [http://www.ml.informatik.tu-darmstadt.de/](http://www.ml.informatik.tu-darmstadt.de/)
