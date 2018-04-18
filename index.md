@@ -1,4 +1,4 @@
-## Welcome To The Machine Learning Discussion Group!
+## Welcome To The _Machine Learning Discussion Group!_
 # It's Nice To Meet You
 
 ### Mission
@@ -15,6 +15,23 @@ We read conference papers, tutorials, book chapters, YouTube-videos, and whateve
 ### How to know what will be discussed?
 The paper for the upcoming session will be named on this webpage.
 Please be aware that no file access will be provided. Although a huge amount of papers is freely available, e.g. via [arXiv](https://arxiv.org/), some papers have limited access, e.g. you have free access to the ACM Digital Library as a student of TU Darmstadt.
+
+### How do we communicate?
+Currently, we use the following Slack channel:
+https://tudmachinelearning.slack.com/
+However, you only get access if you own a `@...tu-darmstadt.de` email address.
+If you aren't university member, please 
+
+### When and where do we meet?
+We meet on Monday evening, 6pm. The location changes, so if you're not a member of the university, please, get in touch with us and we'll tell you where you have to go.
+
+- - - -
+# Next Meeting: 23.04.2018 “Gaussian Processes for Dummies”
+Please, checkout this awesome blog post:
+http://katbailey.github.io/post/gaussian-processes-for-dummies/
+
+If you find any other helpful introductory resource, please share them.
+- - - -
 
 ### Previous Meetings
 * 29.01.2018 "A few useful things to know about machine learning", Pedro Domingos, 2012
