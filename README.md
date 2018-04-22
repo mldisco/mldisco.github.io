@@ -40,5 +40,5 @@ Please be aware that no file access will be provided. Although a huge amount of 
 * 16.04.2018 "Variational inference in Gaussian processes", Carl Rasmussen
   * http://mlg.eng.cam.ac.uk/carl/talks/brusselsbench.pdf
 * 23.04.2018 "Gaussian Processes for Dummies"
-  * http://katbailey.github.io/post/gaussian-processes-for-dummies/
+  * [link](http://katbailey.github.io/post/gaussian-processes-for-dummies/)
 * 30.04.2018 TBA
