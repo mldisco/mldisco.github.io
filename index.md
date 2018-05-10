@@ -4,11 +4,13 @@
 
 - - - -
 # Next Meeting: 
-# 23.04.2018 “Gaussian Processes for Dummies”
-Please, checkout this awesome blog post:
-http://katbailey.github.io/post/gaussian-processes-for-dummies/
-
-If you find any other helpful introductory resource, please share them.
+# 14.05.2018 “Applications of Gaussian Processes”
+Please, vote on [Slack](https://tudmachinelearning.slack.com/messages/C93NMJL49/) for one of the following papers:
+* https://www.aaai.org/Papers/ICML/2003/ICML03-033.pdf
+* http://science.lpnu.ua/sites/default/files/journal-paper/2017/jun/4527/53-waszczyszyn-321-327.pdf
+* https://ieeexplore.ieee.org/document/6743191/?reload=true
+* http://www.auai.org/uai2013/prints/papers/244.pdf
+* https://arxiv.org/abs/1703.09710
 - - - -
 
 ### Mission
@@ -62,7 +64,9 @@ We meet on Monday evening, 6pm. The location changes, so if you're not a member 
   * http://mlg.eng.cam.ac.uk/carl/talks/brusselsbench.pdf
 * 23.04.2018 "Gaussian Processes for Dummies"
   * http://katbailey.github.io/post/gaussian-processes-for-dummies/
-* 30.04.2018 TBA
+* 30.04.2018 NO MEETING
+* 07.05.2018 NO MEETING
+* 14.05.2018 Applications
 
 - - - -
 ### Sponsors
