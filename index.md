@@ -4,13 +4,15 @@
 
 - - - -
 # Next Meeting: 
-# 14.05.2018, 6 p.m.: Applications of Gaussian Processes
+# 14.05.2018: Applications of Gaussian Processes
 Please, vote on [Slack](https://tudmachinelearning.slack.com/messages/C93NMJL49/) for one of the following papers:
 * https://www.aaai.org/Papers/ICML/2003/ICML03-033.pdf
 * http://science.lpnu.ua/sites/default/files/journal-paper/2017/jun/4527/53-waszczyszyn-321-327.pdf
 * https://ieeexplore.ieee.org/document/6743191/?reload=true
 * http://www.auai.org/uai2013/prints/papers/244.pdf
 * https://arxiv.org/abs/1703.09710
+
+We'll meet at 6 p.m.
 
 - - - -
 
